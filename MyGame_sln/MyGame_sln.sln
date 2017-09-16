@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyGame", "MyGame\MyGame.vcxproj", "{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StudyDirectBasic", "StudyDirectBasic\StudyDirectBasic.vcxproj", "{831A4315-4A9F-4146-9BF2-D541A45C8779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor", "..\MapEditorSolution\MapEditor\MapEditor.csproj", "{A897F5E9-EE88-4896-98A1-5A49071C36B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Debug|Win32.Build.0 = Debug|Win32
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Release|Any CPU.ActiveCfg = Release|Win32
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Release|Win32.ActiveCfg = Release|Win32
+		{51F06DA7-8A6D-48A3-80AD-AD0E58D7598A}.Release|Win32.Build.0 = Release|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Debug|Win32.ActiveCfg = Debug|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Debug|Win32.Build.0 = Debug|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Release|Any CPU.ActiveCfg = Release|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Release|Win32.ActiveCfg = Release|Win32
+		{831A4315-4A9F-4146-9BF2-D541A45C8779}.Release|Win32.Build.0 = Release|Win32
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A897F5E9-EE88-4896-98A1-5A49071C36B0}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

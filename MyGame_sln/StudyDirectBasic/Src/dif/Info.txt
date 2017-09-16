@@ -1,0 +1,11 @@
+			W	H
+_climb_down:		20	60
+_climb_down_attack:	20	60
+_climb_up:		20	60
+_climb_up_attack:	20	60
+_sit_down:		20	45	
+_sit_down_attack:	20	45
+_standing_attack:	20	60
+_walking:		20	60
+_turnback: 		20	60
+_tackdamage:		20	60
